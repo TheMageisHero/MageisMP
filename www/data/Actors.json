@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":5,"characterName":"People3","classId":2,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":10,"name":"The Scholar","nickname":"","note":"Scholar","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Evil","classId":3,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":10,"name":"The Brawler","nickname":"","note":"Brawler","profile":""},
+{"id":3,"battlerName":"","characterIndex":4,"characterName":"Evil","classId":4,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":10,"name":"The Rogue","nickname":"","note":"Rogue","profile":""}
+]
